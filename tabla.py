@@ -12,5 +12,6 @@ if y <1 or y>9:
 
 
 for x1 in range(x):
+    print("\n")
     for y1 in range(y):
         print(" * ", end='')
